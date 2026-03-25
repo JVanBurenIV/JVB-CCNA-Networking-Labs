@@ -2,6 +2,12 @@
 
 This repository contains **practice labs for CCNA certification**. Each lab is organized in its own folder and includes a PDF with the scenario, topology, configuration steps, and verification/testing commands.
 
+## Available Labs
+- [Basic Interface Configuration](./Basic-Interface-Configuration)
+- [Static Route Configuration](./Static-Route-Configuration)
+- [EtherChannel](./EtherChannel)
+- [VLANs and Trunking](./VLANs-and-Trunking)
+- IPv6 Interface Configuration (*Coming Soon*)
 ## Future Labs
 The goal is to eventually cover **all configuration and verification topics required for the official CCNA exam** as listed in the [official exam outline PDF](./200-301-CCNA-v1-1.pdf).
 
