@@ -7,14 +7,15 @@ This repository contains **practice labs for CCNA certification**. Each lab is o
 - [Static Route Configuration](./Static-Route-Configuration)
 - [VLANs and Trunking](./VLANs-and-Trunking)
 - [EtherChannel](./EtherChannel)
-- IPv6 Interface Configuration (*Coming Soon*)
+- [IPv6 Interface Configuration](./IPv6-Interface-Configuration)
+- IPv6 Static Routing *(Coming Soon)*
+
 ## Future Labs
 The goal is to eventually cover **all configuration and verification topics required for the CCNA exam** as listed and highlighted in the [official exam outline PDF](./200-301-CCNA-v1-1.pdf).  The remaining nessicary labs are listed below:
 
 - Basic Device Security
 - VLANs (Part 2, Multilayer Switching)
 - OSPF
-- IPv6 Static Routing
 - Standard ACLs
 - Extended ACLs
 - CDP & LLDP
