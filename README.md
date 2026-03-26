@@ -19,6 +19,7 @@ The goal is to eventually cover **all configuration and verification topics requ
 - Extended ACLs
 - CDP & LLDP
 - NTP
+- DNS
 - DHCP
 - SSH
 - NAT
