@@ -9,7 +9,8 @@ This repository contains **practice labs for CCNA certification**. Each lab is o
 - [EtherChannel](./EtherChannel)
 - [IPv6 Interface Configuration](./IPv6-Interface-Configuration)
 - [IPv6 Static Routing](./IPv6-Static-Routing)
-- DNS *(Coming Soon)*
+- [DHCP](./DHCP)
+- NTP *(Coming Soon)*
 
 ## Future Labs
 The goal is to eventually cover **all configuration and verification topics required for the CCNA exam** as listed and highlighted in the [official exam outline PDF](./200-301-CCNA-v1-1.pdf).  The remaining nessicary labs are listed below:
@@ -20,8 +21,7 @@ The goal is to eventually cover **all configuration and verification topics requ
 - Standard ACLs
 - Extended ACLs
 - CDP & LLDP
-- NTP
-- DHCP
+- DNS
 - SSH
 - NAT
 - Voice VLANs
