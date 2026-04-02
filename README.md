@@ -1,6 +1,6 @@
 ![JVB Networking Labs](./assets/jvbnetlabs.png)
 
-This repository contains **practice labs for CCNA certification**. Each lab is organized in its own folder and includes a PDF with the scenario, topology, configuration steps, and verification/testing commands.
+This repository contains hands-on Cisco networking labs covering core **CCNA** topics, including routing, switching, IPv4/IPv6 addressing, and network services. Each lab includes topology diagrams, configurations, and verification commands.
 
 ## Available Labs
 - [Basic Interface Configuration](./Basic-Interface-Configuration)
@@ -13,7 +13,7 @@ This repository contains **practice labs for CCNA certification**. Each lab is o
 - NTP *(Coming Soon)*
 
 ## Future Labs
-The goal is to eventually cover **all configuration and verification topics required for the CCNA exam** as listed and highlighted in the [official exam outline PDF](./200-301-CCNA-v1-1.pdf).  The remaining nessicary labs are listed below:
+The goal is to eventually cover **all configuration and verification topics required for the CCNA exam** as listed and highlighted in the [official exam outline PDF](./200-301-CCNA-v1-1.pdf).  The remaining necessary labs are listed below:
 
 - Basic Device Security
 - VLANs (Part 2, Multilayer Switching)
