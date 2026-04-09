@@ -10,7 +10,8 @@ This repository contains hands-on Cisco networking labs covering core **CCNA** t
 - [IPv6 Interface Configuration](./IPv6-Interface-Configuration)
 - [IPv6 Static Routing](./IPv6-Static-Routing)
 - [DHCP](./DHCP)
-- NTP *(Coming Soon)*
+- [NTP](./NTP)
+- CDP & LLDP *(Coming Soon)*
 
 ## Future Labs
 The goal is to eventually cover **all configuration and verification topics required for the CCNA exam** as listed and highlighted in the [official exam outline PDF](./200-301-CCNA-v1-1.pdf).  The remaining necessary labs are listed below:
@@ -20,7 +21,6 @@ The goal is to eventually cover **all configuration and verification topics requ
 - OSPF
 - Standard ACLs
 - Extended ACLs
-- CDP & LLDP
 - DNS
 - SSH
 - NAT
