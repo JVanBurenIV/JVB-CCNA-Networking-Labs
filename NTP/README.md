@@ -2,7 +2,7 @@
 <img src="../assets/jvbnetlabs.png" width="300">
 </p>
 
-# EtherChannel
+# NTP - Network Time Protocol
 - Exam Topic 4.2 - **"Configure and verify NTP operating in a client and server mode"**
 - [📄 View Full Lab (PDF)](./NTP.pdf)
 
